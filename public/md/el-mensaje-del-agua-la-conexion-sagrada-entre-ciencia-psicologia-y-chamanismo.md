@@ -1,5 +1,5 @@
 # El Mensaje del Agua: La Conexión Sagrada entre Ciencia, Psicología y Chamanismo 
-![image info](../img/experiencia-ayahuasca.webp)
+![image info](../img/mensaje-del-agua.webp)
 
 El Dr. Masaru Emoto fue un investigador japonés que revolucionó nuestra percepción del agua.
 
@@ -35,7 +35,7 @@ Todo esto tiene una raíz en lo que el agua ya nos enseñó: nuestra energía mo
 
 ## Vive la experiencia en La Casa del Jaguar
 En el corazón de la Amazonía, La Casa del Jaguar te ofrece la oportunidad de vivir este conocimiento en carne y espíritu.
-![image info](../img/experiencia-ayahuasca.webp)
+![image info](../img/casa-del-jaguar-holistico.webp)
 Aquí, bajo la guía de maestros y terapeutas, podrás participar en ceremonias sagradas donde el agua, las plantas y la intención se unen para ayudarte a reconectar con tu esencia y reprogramar tu vida.
 
 Te invitamos a vivir una ceremonia consciente, donde las enseñanzas del Dr. Emoto se integran con rituales milenarios, para que veas con tus propios ojos cómo tus emociones transforman el agua… y cómo tú puedes transformarte también.
