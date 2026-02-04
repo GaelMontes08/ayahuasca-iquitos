@@ -6,10 +6,13 @@ export default function Footer() {
   const { t } = useLanguage();
 
   return (
-    <footer className="bg-white border-t border-primary/20 py-12 px-4">
+    <footer className="bg-white border-t border-primary/20 py-8 md:py-12 px-4">
       <div className="max-w-7xl mx-auto">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-[1.5fr_1fr_1fr_1fr] gap-8 lg:gap-12">
-          {/* Column 1 */}
+        {/* Mobile: Stack all columns vertically */}
+        {/* Tablet: 2 columns */}
+        {/* Desktop: 4 columns with first one larger */}
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-[1.5fr_1fr_1fr_1fr] gap-6 md:gap-8 lg:gap-12">
+          {/* Column 1 - Brand & Search */}
           <div className="space-y-4 lg:pr-8">
             <h3 className="text-xl font-bold text-primary mb-4">
               {t('footer.brandTitle')}

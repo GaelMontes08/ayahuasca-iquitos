@@ -83,6 +83,16 @@ const translations = {
     'footer.contact': 'Contáctanos',
     'footer.socialTitle': 'Redes Sociales',
     'footer.copyright': 'Casa del Jaguar. Todos los derechos reservados.',
+    
+    // Reviews Section
+    'reviews.title': 'Lo que dicen nuestros visitantes',
+    'reviews.subtitle': 'Experiencias reales de personas que han participado en nuestras ceremonias',
+    'reviews.note': 'Pausar con el mouse sobre las reseñas para leer con calma',
+    
+    // Latest Posts Section
+    'latestPosts.title': 'Últimos Artículos del Blog',
+    'latestPosts.subtitle': 'Descubre las últimas publicaciones sobre ayahuasca, ceremonias y sabiduría ancestral',
+    'latestPosts.viewAll': 'Ver Todos los Artículos',
   },
   en: {
     // Hero Section
@@ -154,6 +164,16 @@ const translations = {
     'footer.contact': 'Contact Us',
     'footer.socialTitle': 'Social',
     'footer.copyright': 'Casa del Jaguar. All rights reserved.',
+    
+    // Reviews Section
+    'reviews.title': 'What our visitors say',
+    'reviews.subtitle': 'Real experiences from people who have participated in our ceremonies',
+    'reviews.note': 'Hover over reviews to read at your own pace',
+    
+    // Latest Posts Section
+    'latestPosts.title': 'Latest Blog Articles',
+    'latestPosts.subtitle': 'Discover the latest posts about ayahuasca, ceremonies and ancestral wisdom',
+    'latestPosts.viewAll': 'View All Articles',
   },
 };
 

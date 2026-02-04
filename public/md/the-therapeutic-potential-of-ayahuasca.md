@@ -1,4 +1,4 @@
-## El Potencial Terapéutico de la Ayahuasca
+# El Potencial Terapéutico de la Ayahuasca
 ![image info](../img/terapeutico.webp)
 Los primeros estudios sobre los beneficios terapéuticos de la ayahuasca comenzaron en la década de 1980.
 

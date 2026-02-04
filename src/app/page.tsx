@@ -3,6 +3,8 @@ import About from "@/components/About";
 import Maestros from "@/components/Maestros";
 import Location from "@/components/Location";
 import Ayahuasca from "@/components/Ayahuasca";
+import ReviewsCarousel from "@/components/ReviewsCarousel";
+import LatestPosts from "@/components/LatestPosts";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 
@@ -15,6 +17,8 @@ export default function Home() {
       <Maestros />
       <Location />
       <Ayahuasca />
+      <ReviewsCarousel />
+      <LatestPosts />
       <Footer />
     </div>
   );
