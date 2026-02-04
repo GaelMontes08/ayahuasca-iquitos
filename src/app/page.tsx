@@ -7,6 +7,7 @@ import ReviewsCarousel from "@/components/ReviewsCarousel";
 import LatestPosts from "@/components/LatestPosts";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import WhatsAppButton from "@/components/WhatsAppButton";
 
 export default function Home() {
   return (
@@ -20,6 +21,7 @@ export default function Home() {
       <ReviewsCarousel />
       <LatestPosts />
       <Footer />
+      <WhatsAppButton />
     </div>
   );
 }
