@@ -16,6 +16,10 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Casa del Jaguar - Ayahuasca Iquitos",
   description: "Ceremonias de ayahuasca en Iquitos, Perú. Sanación emocional y expansión espiritual con maestros experimentados.",
+  icons: {
+    icon: 'logo-dawn-3.png',
+    apple: 'logo-dawn-3.png',
+  },
 };
 
 export default function RootLayout({

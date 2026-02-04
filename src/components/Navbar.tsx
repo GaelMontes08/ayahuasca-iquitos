@@ -19,7 +19,9 @@ export default function Navbar() {
         <div className="flex items-center justify-between">
           {/* Brand/Logo */}
           <div className="text-xl font-bold text-primary">
-            {t('nav.brand')}
+            <a href="https://ayahuascaiquitos.net" className="text-foreground hover:text-accent transition-colors">
+              {t('nav.brand')}
+            </a>
           </div>
 
           {/* Desktop Menu */}
