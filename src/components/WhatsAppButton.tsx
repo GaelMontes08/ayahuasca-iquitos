@@ -3,7 +3,7 @@
 export default function WhatsAppButton() {
   return (
     <a
-      href="https://api.whatsapp.com/send/?phone=51943778736&text=Hola+Ayahuasca+Iquitos%0D%0AMe+gustaría+saber+más+información+sobre+las+ceremonias&type=phone_number&app_absent=0"
+      href="https://api.whatsapp.com/send/?phone=51917811803&text=Hola+Ayahuasca+Iquitos%0D%0AMe+gustaría+saber+más+información+sobre+las+ceremonias&type=phone_number&app_absent=0"
       target="_blank"
       rel="noopener noreferrer"
       className="fixed bottom-6 right-6 z-50 bg-[#25D366] hover:bg-[#20BA5A] text-white p-4 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-110 group"
