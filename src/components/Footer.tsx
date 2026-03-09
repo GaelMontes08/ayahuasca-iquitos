@@ -33,7 +33,7 @@ export default function Footer() {
             </h4>
             <ul className="space-y-2">
               <li>
-                <a href="#about" className="text-foreground/70 hover:text-accent transition-colors">
+                <a href="/about" className="text-foreground/70 hover:text-accent transition-colors">
                   {t('footer.about')}
                 </a>
               </li>

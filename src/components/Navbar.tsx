@@ -42,7 +42,7 @@ export default function Navbar() {
           {/* Desktop Menu */}
           <div className="hidden lg:flex items-center space-x-6">
             {/* About Us */}
-            <a href="#about" className="text-foreground hover:text-accent transition-colors">
+            <a href="/about" className="text-foreground hover:text-accent transition-colors">
               {t('nav.about')}
             </a>
 
@@ -185,7 +185,7 @@ export default function Navbar() {
         {/* Mobile Menu */}
         {mobileMenuOpen && (
           <div className="lg:hidden mt-4 space-y-2 pb-4 border-t border-primary/10 pt-4">
-            <a href="#about" className="block py-2 text-foreground hover:text-accent">
+            <a href="/about" className="block py-2 text-foreground hover:text-accent">
               {t('nav.about')}
             </a>
 
