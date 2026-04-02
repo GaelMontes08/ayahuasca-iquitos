@@ -47,3 +47,12 @@ html {
 .animate-pulse-ring {
   animation: pulse-ring 2.5s ease-out infinite;
 }
+
+@keyframes ticker-scroll {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+.animate-ticker {
+  animation: ticker-scroll 90s linear infinite;
+}
