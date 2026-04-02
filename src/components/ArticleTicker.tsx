@@ -18,7 +18,7 @@ export default function ArticleTicker({ articles }: Props) {
   const doubled = [...articles, ...articles];
 
   return (
-    <div className="bg-primary/10 border-t border-primary/20 overflow-hidden">
+    <div className="bg-[#f0e8dc] border-t border-primary/20 overflow-hidden">
       <div className="flex items-stretch">
         {/* Static label */}
         <div className="shrink-0 flex items-center bg-primary px-4 py-1.5 text-white text-xs font-bold uppercase tracking-widest z-10">
